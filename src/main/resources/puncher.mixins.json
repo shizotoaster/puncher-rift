@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "net.shizotoaster.puncher.rift.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7.11",
+  "mixins": [
+    "BoatEntityMixin",
+    "MinecartEntityMixin"
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

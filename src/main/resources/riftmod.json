@@ -1,0 +1,13 @@
+{
+    "id": "puncher",
+    "name": "Puncher",
+    "description": "Ultimate boat/minecart destroyer!!!1!",
+    "version": "1.0.0",
+    "authors": [
+        "shizotoaster"
+    ],
+    "listeners": [
+        "net.shizotoaster.puncher.rift.PuncherInit"
+    ],
+    "url": "https://github.com/shizotoaster/puncher-rift"
+}
